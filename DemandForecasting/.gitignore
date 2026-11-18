@@ -1,0 +1,10 @@
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+models/*
+*.joblib
+*.parquet
+__pycache__/
+.pytest_cache/
+.venv/
+.env

@@ -1,0 +1,10 @@
+pandas>=2.1,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+lightgbm>=4.3,<5
+plotly>=5.20,<7
+dash>=2.17,<4
+ortools>=9.10,<10
+pytest>=8,<9
+# Optional benchmark: prophet>=1.1.5,<2
+# Darts and PyTorch Forecasting are optional heavyweight extensions.
